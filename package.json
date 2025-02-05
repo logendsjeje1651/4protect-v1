@@ -2,7 +2,7 @@
   "name": "4protect",
   "version": "1.2",
   "description": "Un bot Discord pour la gestion des serveurs",
-  "author": "4wip",
+  "author": "ingencylive",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
